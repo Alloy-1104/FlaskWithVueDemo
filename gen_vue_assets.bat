@@ -1,0 +1,1 @@
+xcopy /e/y frontend\src\static\assets\ dist\static\assets\
